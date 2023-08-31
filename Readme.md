@@ -15,7 +15,7 @@ To get a copy of the Fun Fact Generator up and running on your local machine, fo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/fun-fact-generator.git
+   git clone https://github.com/CharlesFabicki/Fun.Fact.Generator.git
 	```
 2. Navigate to the project directory:
    ```bash
