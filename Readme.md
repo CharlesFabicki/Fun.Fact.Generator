@@ -47,4 +47,4 @@ To get a copy of the Fun Fact Generator up and running on your local machine, fo
 4. Repeat step 3 to generate more fun facts.
 
 ## License
-This project is licensed under the License
+This project is licensed under the MIT License
